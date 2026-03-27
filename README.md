@@ -15,7 +15,15 @@
 <a href="https://github.com/padal1325454">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://ravi-portfolio-lovat.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <img src="https://komarev.com/ghpvc/?username=padal1325454&label=Profile+Views&color=0077b6&style=for-the-badge"/>
+
+<br/><br/>
+
+### 🌐 &nbsp;[View My Portfolio →](https://ravi-portfolio-lovat.vercel.app/)
+> *Live projects · Case studies · Full experience*
 
 </div>
 
@@ -169,6 +177,8 @@ Beyond my day job, I build full-stack systems, 3D browser applications, and run 
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-%23FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ravi-portfolio-lovat.vercel.app/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikiran-padal-sagina-0b9999253)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikiranpadalsagina@gmail.com)
