@@ -20,10 +20,6 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=padal1325454&label=Profile+Views&color=0077b6&style=for-the-badge"/>
 
-<br/><br/>
-
-### 🌐 &nbsp;[View My Portfolio →](https://ravi-portfolio-lovat.vercel.app/)
-> *Live projects · Case studies · Full experience*
 
 </div>
 
