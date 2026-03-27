@@ -118,13 +118,11 @@ Beyond my day job, I build full-stack systems, 3D browser applications, and run 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=padal1325454&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padal1325454&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="175"/>
+<img src="https://streak-stats.demolab.com?user=padal1325454&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="195"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=padal1325454&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=padal1325454&theme=tokyonight" width="100%"/>
 
 </div>
 
