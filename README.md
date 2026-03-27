@@ -17,17 +17,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const ravikiran = {
-  role:       "Software Engineer @ CRANTYA, Little Elm TX",
-  location:   "Aubrey, Texas, USA 🇺🇸",
-  education:  "MS Computer & Information Sciences — University of North Texas (2026)",
-  focus:      ["React Analytics Platforms", "Full-Stack Systems", "ML & Data Analysis"],
-  currently:  "Building ListTrac — real estate listing analytics for MLS brokers nationwide",
-  funFact:    "I shipped a 3D drawing app in the browser using pure Three.js + WebGL 🎨"
-};
-```
-
 - 🏢 **Software Engineer** at **CRANTYA** — shipping production React features on [ListTrac](https://listtrac.com), a PropTech analytics platform used by MLS brokers and agents across the US
 - 🎓 **MS Computer & Information Sciences** at University of North Texas, Denton TX *(graduating May 2026)*
 - 🔭 Currently working on **high-data analytics dashboards** — optimizing React rendering, integrating real estate data APIs, and keeping production reliable for thousands of agents daily
