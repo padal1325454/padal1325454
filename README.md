@@ -15,7 +15,7 @@
 <a href="https://github.com/padal1325454">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://ravi-portfolio-lovat.vercel.app/">
+<a href="https://ravikiran.is-a.dev">
   <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=padal1325454&label=Profile+Views&color=0077b6&style=for-the-badge"/>
